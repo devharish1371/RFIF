@@ -1,0 +1,16 @@
+# Core scientific computing
+numpy>=2.2.0
+pandas>=2.3.0
+scipy>=1.16.0
+matplotlib>=3.10.0
+
+# Financial data
+yfinance>=0.2.60
+
+# Performance and utilities
+numba>=0.61.0
+tqdm>=4.67.0
+
+# Optional: Additional dependencies for enhanced functionality
+# beautifulsoup4>=4.13.0  # For web scraping if needed
+# requests>=2.32.0        # For HTTP requests
