@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+myenv/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+
+# Plots/outputs
+*.png
+*.pdf
+*.svg
+compare_metrics.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.log
+
